@@ -13,7 +13,7 @@ npm install cache-breaker
 ##Usage
 
 ```
-Usage: cli [options] <input-file>
+Usage: cache-breaker [options] <input-file>
 
 Options:
 
