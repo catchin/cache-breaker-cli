@@ -1,0 +1,25 @@
+{
+  "name": "cache-breaker-cli",
+  "version": "0.0.1",
+  "description": "Commandline interface for cache-breaker module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catchin/cache-breaker-cli"
+  },
+  "author": "Fabian Kneißl",
+  "license": "MIT",
+  "bin": {
+    "cache-breaker": "./cli.js"
+  },
+  "scripts": {
+    "test": "cd test; mocha -- main.spec.js; rm -f test-out.html"
+  },
+  "dependencies": {
+    "cache-breaker": "0.0.4",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
