@@ -16,10 +16,10 @@
   },
   "dependencies": {
     "cache-breaker": "0.0.4",
-    "commander": "^2.9.0"
+    "commander": "^2.12.1"
   },
   "devDependencies": {
-    "chai": "^4.0.1",
-    "mocha": "^4.0.0"
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
