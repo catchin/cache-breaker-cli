@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/catchin/cache-breaker-cli.svg?branch=master)](https://travis-ci.org/catchin/cache-breaker-cli.svg)
 
-**This module provides a command line interface to the cache-breaker plugin. It can be used for npm-only build scripts**
+This module provides a command line interface to the cache-breaker plugin. It can be used for npm-only build scripts
+
+**ATTENTION: Note that this npm module is no longer maintained and outdated, also because the main dependency is not maintained**
 
 
 ## Install
